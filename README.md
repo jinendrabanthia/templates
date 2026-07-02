@@ -1,6 +1,6 @@
 # Canva Event Templates Collection
 
-**Total Templates:** 88
+**Total Templates:** 96
 Welcome to the Canva Event Templates Collection! This repository contains a beautifully curated set of event invitation templates, provided in both SVG and ZIP formats. These templates are perfect for various occasions, featuring elegant designs, traditional illustrations, and modern aesthetics.
 
 ## 📂 Contents
